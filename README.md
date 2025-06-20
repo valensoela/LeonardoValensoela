@@ -49,5 +49,5 @@ Atuo no **Centro Universitário São Camilo** em posições de Analista de Siste
 ## 📫 Contato
 
 - ✉️ leonardovalensoela567567@gmail.com  
-- 🔗 [linkedin.com/in/leonardo‑valensoela](https://www.linkedin.com/in/leonardo‑valensoela/)  
-- 🐙 [github.com/leovalensoela](https://github.com/leovalensoela)
+- 🔗 [linkedin.com/in/leonardo‑valensoela](https://www.linkedin.com/in/leonardo-valensoela/)  
+- 🐙 [github.com/leovalensoela](https://github.com/valensoela/)
